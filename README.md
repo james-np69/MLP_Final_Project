@@ -1,2 +1,5 @@
 # MLP_Final_Project
-This is the final project of MLP
+Guide:
+Open code in any python ide
+import dependencies
+Run the code
