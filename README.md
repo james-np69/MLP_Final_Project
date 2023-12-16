@@ -1,5 +1,7 @@
 # MLP_Final_Project
 Guide:
-Open code in any python ide
-import dependencies
-Run the code
+1.Open code in any python ide
+
+2.import dependencies
+
+3.Run the code
